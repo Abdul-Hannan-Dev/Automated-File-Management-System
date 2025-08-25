@@ -43,7 +43,7 @@ This helps keep directories clean and ensures files are never duplicated — ins
 2. Run the script:
 
    ```bash
-   python file_manager.py
+   python index.py
    ```
 3. Enter the **full path** of the directory you want to organize (e.g., `C:\Users\YourName\Downloads`).
 4. The script will automatically transfer and organize files into their respective folders.
